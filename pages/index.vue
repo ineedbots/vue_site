@@ -2,7 +2,9 @@
   <div class="ing-root-div ing-content nes-container">
     <p>
       <img src="l3wcb.png" alt="Level 3 Woodcutting bot" />
-      About me blaioaw haw 9d7awd akwdj a awidjawoidj aiod hawdio hd
+      A developer with a breadth of skills.
+      Constantly on the pursuit for the perfect code.
+      I like bots.
     </p>
 
     <div style="height: 40px" />
