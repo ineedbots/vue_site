@@ -5,7 +5,22 @@
         <p class="title">
           ineedbot's OSRS Scripts
         </p>
-        <p>Good morning. Thou hast had a good night's sleep, I hope.</p>
+        <p>
+          <img src="/osrs.png" alt="CoD2" style=""/>
+          <br>
+          <br>
+          These were a collection of automation scripts for
+          <a href="https://oldschool.runescape.com/">OldSchool RuneScape</a>.
+          <br><br>
+          It used an IDE known as <a href="https://villavu.com/forum/">Simba</a>.
+          <br><br>
+          My scripts used a library that utilized <a href="https://github.com/KyleHunter/OSR-Reflection">reflection</a>.
+          <br><br>
+          <br>
+          <a href="https://github.com/ineedbots/Scripts">GitHub</a> (archived)
+          <br>
+          <a href="https://villavu.com/forum/showthread.php?t=100300">Forum post</a>
+        </p>
       </div>
 
       <div style="height: 40px" />
