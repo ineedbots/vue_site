@@ -7,7 +7,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'site',
+    titleTemplate: '%s - INeedGames\' Site',
+    title: 'Index',
     htmlAttrs: {
       lang: 'en',
     },
