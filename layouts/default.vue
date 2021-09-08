@@ -8,12 +8,11 @@
       <Nuxt />
 
       <div class="ing-footer">
-        <span
-          >Theme via
-          <a href="https://nostalgic-css.github.io/NES.css/">NES.css</a></span
-        >
+        <span>Theme via <a href="https://nostalgic-css.github.io/NES.css/">NES.css</a></span>
       </div>
     </div>
+
+    <div style="min-height: 100px"/>
 
     <div class="fixed-bottom ing-footer">
       <span> - INeedGames/ineedbots (2009 and onwards)</span>

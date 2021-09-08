@@ -16,9 +16,9 @@
 
       <div class="lists">
         <ul class="nes-list is-disc">
-          <li>
-            <NuxtLink to="/bot-warfare">Bot Warfare</NuxtLink>
-          </li>
+          <li><NuxtLink to="/bot-warfare">Bot Warfare</NuxtLink></li>
+          <li><NuxtLink to="/cod2m">CoD2M</NuxtLink></li>
+          <li><NuxtLink to="/osrs">ineedbot's OSRS Scripts</NuxtLink></li>
         </ul>
       </div>
     </div>
@@ -32,22 +32,13 @@
       <div class="lists">
         <ul class="nes-list is-disc">
           <li><a href="https://github.com/ineedbots">GitHub</a></li>
-          <li>
-            <a href="https://www.youtube.com/user/Yyhhggtt">YouTube</a>
-          </li>
+          <li><a href="https://www.youtube.com/user/Yyhhggtt">YouTube</a></li>
         </ul>
       </div>
     </div>
 
     <div style="height: 40px" />
 
-    <span
-      >Email:
-      <a href="mailto:ineedbots@outlook.com">ineedbots@outlook.com</a></span
-    >
+    <span>Email:<a href="mailto:ineedbots@outlook.com">ineedbots@outlook.com</a></span>
   </div>
 </template>
-
-<style></style>
-
-<script></script>
