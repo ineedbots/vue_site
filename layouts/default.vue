@@ -44,6 +44,10 @@ a, button {
   cursor: pointer;
 }
 
+a {
+  color: #1976d2;
+}
+
 .ing-root-div {
   background-color: #121212;
 }
