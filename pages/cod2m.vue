@@ -9,11 +9,11 @@
           <img src="/cod2.png" alt="CoD2" style=""/>
           <br>
           <br>
-          CoD2M is a modification for the Windows videogame
+          CoD2M is a modification for the Windows video game
           <a href="https://store.steampowered.com/app/2630/Call_of_Duty_2/">Call of Duty 2</a>.
           <br><br>
           It builds into a D3D9 DLL proxy (thanks momo5502) that runs when the game starts up.
-          It uses C++ and x86 assembly to perform the modications to the game.
+          It uses C++ and x86 assembly to perform the modifications to the game.
           <br><br>
           The main purpose of this project is to allow my
           <NuxtLink to="/bot-warfare">Bot Warfare</NuxtLink>
@@ -37,7 +37,7 @@
 export default {
   head() {
     return {
-      title: 'Bot Warfare',
+      title: 'CoD2M',
     };
   },
 };

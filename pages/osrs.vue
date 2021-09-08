@@ -6,7 +6,7 @@
           ineedbot's OSRS Scripts
         </p>
         <p>
-          <img src="/osrs.png" alt="CoD2" style=""/>
+          <img src="/osrs.png" alt="OSRS" style=""/>
           <br>
           <br>
           These were a collection of automation scripts for
@@ -14,7 +14,8 @@
           <br><br>
           It used an IDE known as <a href="https://villavu.com/forum/">Simba</a>.
           <br><br>
-          My scripts used a library that utilized <a href="https://github.com/KyleHunter/OSR-Reflection">reflection</a>.
+          My scripts used a library that utilized <a href="https://github.com/KyleHunter/OSR-Reflection">java reflection</a>
+          to read data from the game client.
           <br><br>
           <br>
           <a href="https://github.com/ineedbots/Scripts">GitHub</a> (archived)
@@ -36,7 +37,7 @@
 export default {
   head() {
     return {
-      title: 'Bot Warfare',
+      title: 'OSRS',
     };
   },
 };
