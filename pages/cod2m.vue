@@ -6,7 +6,7 @@
           CoD2M
         </p>
         <p>
-          <img src="/cod2.png" alt="CoD2" style=""/>
+          <img src="/cod2.png" alt="CoD2" class="ing-600img"/>
           <br>
           <br>
           CoD2M is a modification for the Windows video game

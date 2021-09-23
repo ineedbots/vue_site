@@ -6,7 +6,7 @@
           ineedbot's OSRS Scripts
         </p>
         <p>
-          <img src="/osrs.png" alt="OSRS" style=""/>
+          <img src="/osrs.png" alt="OSRS" class="ing-600img"/>
           <br>
           <br>
           These were a collection of automation scripts for
@@ -14,11 +14,19 @@
           <br><br>
           It used an IDE known as <a href="https://villavu.com/forum/">Simba</a>.
           <br><br>
-          My scripts used a library that utilized <a href="https://github.com/KyleHunter/OSR-Reflection">java reflection</a>
-          to read data from the game client.
+          Some of my scripts used a library that utilized <a href="https://github.com/KyleHunter/OSR-Reflection">java reflection</a>
+          to read data from directly from the game client.
+          This required maintenance to the library every time there was a game update.
+          <br><br>
+          Another set of my scripts used a library that used
+          <a href="https://github.com/ollydev/SRL-Development">colour and AI</a>
+          to detect the game's state. The advantage to this approach is that maintenance
+          is only required if the game's visuals changes, which doesn't happen often.
           <br><br>
           <br>
-          <a href="https://github.com/ineedbots/Scripts">GitHub</a> (archived)
+          <a href="https://github.com/ineedbots/srl-osr-scripts">GitHub (color)</a> (maintained)
+          <br>
+          <a href="https://github.com/ineedbots/Scripts">GitHub (reflection)</a> (archived)
           <br>
           <a href="https://villavu.com/forum/showthread.php?t=100300">Forum post</a>
         </p>

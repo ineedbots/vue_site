@@ -6,7 +6,7 @@
           Bot Warfare
         </p>
         <p>
-          <img src="/bwlogo.png" alt="Bot Warfare" style=""/>
+          <img src="/bwlogo.png" alt="Bot Warfare" class="ing-600img"/>
           <br>
           <br>
           Bot Warfare is a GSC mod for various Call of Duty games that aims to add/enhance

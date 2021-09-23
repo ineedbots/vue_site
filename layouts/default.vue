@@ -79,9 +79,14 @@ a {
 }
 
 .ing-content {
-    background-color: #1E1E1E;
-    border-color: currentcolor;
-    color: white;
+  background-color: #1E1E1E;
+  border-color: currentcolor;
+  color: white;
+}
+
+.ing-600img {
+  width: 100%;
+  max-width: 600px;
 }
 
 li::before {
