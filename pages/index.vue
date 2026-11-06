@@ -18,6 +18,7 @@
         <ul class="nes-list is-disc">
           <li><NuxtLink to="/atp">Air Traffic Pro</NuxtLink></li>
           <li><NuxtLink to="/bot-warfare">Bot Warfare</NuxtLink></li>
+          <li><NuxtLink to="/lostcity-headless">LostCity Headless</NuxtLink></li>
           <li><NuxtLink to="/osrs">ineedbot's OSRS Scripts</NuxtLink></li>
           <li><NuxtLink to="/cod2m">CoD2M</NuxtLink></li>
         </ul>
